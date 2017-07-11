@@ -1,6 +1,8 @@
 <img src="http://immobiliare.github.io/ApnsPHP/images/logo.png" width="48"> ApnsPHP: Apple Push Notification & Feedback Provider
 ==========================
 
++ http://codular.com/sending-ios-push-notifications-with-php
+
 <p align="center">
 	<img src="https://poser.pugx.org/duccio/apns-php/downloads">
 	<img src="https://poser.pugx.org/duccio/apns-php/d/monthly">
